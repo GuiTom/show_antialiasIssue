@@ -1,6 +1,4 @@
-# game_debuger
 
-a project  to debug game
 
 ## Getting Started
 
