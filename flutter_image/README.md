@@ -1,7 +1,3 @@
-# game_debuger
-
-a project  to debug game
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
